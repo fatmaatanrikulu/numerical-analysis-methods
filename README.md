@@ -1,6 +1,6 @@
 # numerical-analysis-methods
-Graphical Method
-Biseciton Method
+# Graphical Method
+# Biseciton Method
 Regula False
 Newton's Rapson
 Matrix Invers
